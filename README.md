@@ -33,5 +33,5 @@ This project is part of my data science internship. I performed Exploratory Data
 ---
 
 ✅ Internship Task 1 Completed
-🔗 [Connect with me on LinkedIn](www.linkedin.com/in/hafiz-muhammad-haris-305211361) 
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/hafiz-muhammad-haris-305211361)
 
